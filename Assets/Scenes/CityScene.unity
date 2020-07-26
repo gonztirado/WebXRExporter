@@ -292,72 +292,77 @@ MonoBehaviour:
   translationEnabled: 1
   mouseSensitivity: 1
   straffeSpeed: 5
---- !u!1001 &1089028994
+--- !u!1001 &2402356260421510644
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1273392437448887213, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 1342201551726666821, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
-      propertyPath: m_Name
-      value: Simple City
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3086333269162751083, guid: 9467b91df91dced4aa300333fc7886da,
+    - target: {fileID: 8051225910046698314, guid: 81fcdf075fa1c5d469db64d6d70a829a,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8051225910046698325, guid: 81fcdf075fa1c5d469db64d6d70a829a,
+        type: 3}
+      propertyPath: m_Name
+      value: City Environment
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 9467b91df91dced4aa300333fc7886da, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 81fcdf075fa1c5d469db64d6d70a829a, type: 3}
